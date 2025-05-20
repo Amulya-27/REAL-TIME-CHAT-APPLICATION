@@ -59,3 +59,7 @@ Building a real-time chat app involves handling issues like message synchronizat
 Conclusion:
 
 A real-time chat application is an essential communication tool in the digital age. By combining frontend responsiveness with backend efficiency, it enables users to interact seamlessly and stay connected in real time. With advancements in cloud infrastructure and real-time databases, developing such applications has become more accessible and scalable.
+
+##OUTPUT
+
+<img width="409" alt="Image" src="https://github.com/user-attachments/assets/703a99c2-0314-4a24-9e98-732d51d38afc" />
